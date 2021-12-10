@@ -1,4 +1,9 @@
-<h1><i>space invaders game</i></h1>
+# Space invaders game
+## Authors
+
+- [Vishal Thakur](https://www.github.com/astrovishalthakur)
+
+
 
 This is a project I completed on my journey of learning python via project based learning.
 
