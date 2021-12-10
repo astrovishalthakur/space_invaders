@@ -26,7 +26,7 @@ I have provided some pictures of game in action.
 ![](readimg/Screenshot%20(5).png)
 
 
-You can download the whole project and just run in any suitable ide. I use pycharm as personal preference.
+You can download the whole project and just run in any suitable ide. I personally prefer PYCHARM.
 
 ## Feedback
 
