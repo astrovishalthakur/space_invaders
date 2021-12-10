@@ -1,7 +1,3 @@
-
-
-
-
 <h1><i>space invaders game</i></h1>
 
 This is a project I completed on my journey of learning python via project based learning.
@@ -16,5 +12,15 @@ The goal is to defeat wave after wave of descending aliens with a horizontally m
 <h2> Move Left: Left key</h2>
 <h2> Move Right: Right key</h2>
 
-I have provided some pics and video of game in action.
+I have provided some pictures of game in action.
+
+![](readimg/Screenshot%20(4).png)
+
+
+
+![](readimg/Screenshot%20(5).png)
+
+## Feedback
+
+If you have any feedback, please reach out to us at astrovishalthakur@gmail.com
 
