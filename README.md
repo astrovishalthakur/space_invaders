@@ -30,5 +30,5 @@ You can download the whole project and just run in any suitable ide. I personall
 
 ## Feedback
 
-If you have any feedback, please reach out to us at astrovishalthakur@gmail.com
+If you have any feedback, please reach out to me at astrovishalthakur@gmail.com
 
