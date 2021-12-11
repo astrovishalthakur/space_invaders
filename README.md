@@ -12,10 +12,10 @@ It was manufactured and sold by Taito in Japan, and licensed by the Midway divis
 Space Invaders was the first fixed shooter and set the template for the shoot 'em up genre. 
 The goal is to defeat wave after wave of descending aliens with a horizontally moving laser to earn as many points as possible.</h3>
 
-<h1>Controls</h1>
-<h2> Shoot : Spacebar</h2>
-<h2> Move Left: Left key</h2>
-<h2> Move Right: Right key</h2>
+## Controls
+### Shoot : Spacebar
+### Move Left: Left key
+### Move Right: Right key
 
 I have provided some pictures of game in action.
 
